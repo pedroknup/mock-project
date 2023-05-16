@@ -1,9 +1,1 @@
-.login-button {
-    background-color: #fff;
-    color: #3f51b5;
-    border: 1px solid #3f51b5;
-    border-radius: 4px;
-    padding: 8px;
-    font-size: 14px;
-    cursor: pointer;
-}
+{"file":"../../repositories/mock-project/src/login-button/styles.css","content":".login-button {\n    background-color: #fff;\n    color: #3f51b5;\n    border: 1px solid #3f51b5;\n    border-radius: 4px;\n    padding: 8px;\n    font-size: 14px;\n    cursor: pointer;\n}\n"}
